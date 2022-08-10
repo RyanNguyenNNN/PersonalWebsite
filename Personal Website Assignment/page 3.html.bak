@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html>
+<!-- Third Page -->
+<head>
+<meta charset="UTF-8"
+<meta name="viewport" content="width=device width", initial-scale=1>
+
+<Style>
+body {background-color: #D3D3D3;
+		padding:50px;|
+</Style>
+<title>Ryan Nguyen - Resume</title>
+</head>
+
+<body>
+  <h1 style = "text-align:center">Ryan Nguyen </h1>
+  <center>Boston, MA | rnguyen20@boston.k12.org | (617) 763 - 2285</center>
+
+  <hr>
+  
+  <main>
+  <br>
+  <h2>EDUCATION</h2>
+  <hr>
+  <p><b>Boston Latin Academy | Boston, MA</b></p>
+  <p>College Preparatory Curriculum, Class of 2024</p>
+ <p>Coursework includes: </p>
+
+ <ul>
+	<li>Advanced Algebra II</li>
+	<li>AP Computer Science Principles</li>
+	<li>Latin III</li>
+ </ul>
+ <br>
+ 
+ <h2>EXTRACURRICULARS ACTIVITIES</h2>
+<hr>
+<table>
+<thead>
+	<tr>
+	<th>(Feb. 2022 - Present)</th>
+	<th style="text-align: left">BLA Recycle Club</th>
+	</tr>
+
+	<tr>
+	<td></td>
+	<th style="text-align:left">Member</th>
+	</tr>
+	
+	<tr></tr>
+	<td></td>
+	<td>
+	<ul>
+	<li>Ensure that recycling is picked up from all classrooms</li>
+	</ul>
+	</td>
+</thead>
+
+<th>(July 2022 - August 2022)</th>
+<th style="text-align: left">Web Design (HTML) & Windows OS Internship</th>
+<th> </th>
+</tr>
+
+<tr>
+	<td></td>
+	<th style="text-align: left">Member</th>
+</tr>
+
+<tr></tr>
+<td></td> <!--Empty table cell-->
+<td><ul><li>Explores the structure of websites & grasp a better understanding of window's operating system</li></ul></td>
+
+	<tr>
+		<th>(June 2022 - August 2022)</th>
+		<th style="text-align: left">Bridge to Calculus</th></th>
+	</tr>
+	<tr>
+		<td></td>
+		<th style="text-align: left">Student</th>
+	</tr>
+	
+	<tr></tr>
+	<td></td>
+	<td>
+	<ul>
+		<li>An immensive experience that allows students to work with passionate Northeastern University Math professors to deeper explore algebra and pre-caluclus topics.</li>
+		<!--should make the description more personal to my experience later-->
+	</ul>
+	</td>
+</table>
+
+ 
+<br>
+<h2>Skills</h2>
+<hr>
+<p>Computer Skills: Google Suite, Basic HTML</p>
+<p>Languages: Vietnamese (Conversational)</p>
+<p>Personal: Flexiable Schedule, Accountable, Friendly & Outgoing</p>
+<!--Note: should add/change the personal part more -->
+<br>
+<h2>About Me</h2>
+<hr>
+<p>I'm currently a highschool rising junior at Boston Latin Academy. I like to learn about history and enjoy practing math. I'm still very much exploring future hobbies and love to tinker with things unknown to me. I also enjoy to learn about coding.</p>
+  </main>
+  <h2></h2>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
