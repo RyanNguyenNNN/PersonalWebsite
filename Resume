@@ -1,18 +1,33 @@
-<!DOCTYPE HTML>
-<html>
-<!-- Third Page -->
+<!DOCTYPE html>
+
+<html lang="en">
+
 <head>
-<meta charset="UTF-8"
-<meta name="viewport" content="width=device width", initial-scale=1>
-
-<Style>
-body {background-color: #D3D3D3;
-		padding:50px;|
-</Style>
-<title>Ryan Nguyen - Resume</title>
+	<style>
+		body {
+			background-color: #f3f0e9;
+			padding: 0px 20px 0px
+		}
+		
+		header  {box-shadow: 11px 10px 13px #888888;}
+		
+		body > img {float: right;}</style>
+	</style>
 </head>
-
+	
 <body>
+	<header>
+	<center>
+		<image src="images/Banner.png" height = "200">
+		<br>
+		<a href="Index.html"> Bio</a>
+		<a href="Hobbies.html"> Hobbies</a>
+		<a href="Resume.html"> Resume</a>
+		<a href="Contact Me Page.html"> Contact Me</a>
+	</center>
+	</header>
+	
+
   <h1 style = "text-align:center">Ryan Nguyen </h1>
   <center>Boston, MA | rnguyen20@boston.k12.org | (617) 763 - 2285</center>
 
@@ -79,8 +94,8 @@ body {background-color: #D3D3D3;
 		<th style="text-align: left">Student</th>
 	</tr>
 	
-	<tr></tr> <!--empty row-->
-	<td></td> <!--empty cell-->
+	<tr></tr>
+	<td></td>
 	<td>
 	<ul>
 		<li>An immensive experience that allows students to work with passionate Northeastern University Math professors to deeper explore algebra and pre-caluclus topics.</li>
@@ -97,24 +112,4 @@ body {background-color: #D3D3D3;
 <p>Languages: Vietnamese (Conversational)</p>
 <p>Personal: Flexiable Schedule, Accountable, Friendly & Outgoing</p>
 <!--Note: should add/change the personal part more -->
-<br>
-<h2>About Me</h2>
-<hr>
-<p>I'm currently a highschool rising junior at Boston Latin Academy. I like to learn about history and enjoy practing math. I'm still very much exploring future hobbies and love to tinker with things unknown to me. I also enjoy to learn about coding.</p>
-  </main>
-  <h2></h2>
 </body>
-
-	<a href="index.html"> Page1</a>
-	<a href="page 2.html"> Page2</a>
-	<a href="page 4.html"> Page4</a>
-
-
-
-
-
-
-
-
-
-</html>
